@@ -6,5 +6,6 @@ public class Main {
     System.out.println("First Commit");
     System.out.println("Second commit");
     System.out.println("3");
+    System.out.println("4");
   }
 }
