@@ -22,6 +22,7 @@ public class TransferService {
             account2.deposit(amount);
             System.out.println("Money transfer was successfully");
           } else {
+            account2.getFailCounter().addAndGet(1);
             System.out.println("Can't get a lock from " + account2);
           }
         } finally {
@@ -30,6 +31,7 @@ public class TransferService {
           }
         }
       } else {
+        account1.getFailCounter().addAndGet(1);
         System.out.println("Can't get a lock from " + account1);
       }
     } finally {
