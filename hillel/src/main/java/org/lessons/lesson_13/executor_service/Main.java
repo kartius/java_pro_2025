@@ -1,4 +1,4 @@
-package org.lessons.lesson_12.executor_service;
+package org.lessons.lesson_13.executor_service;
 
 import java.util.concurrent.ExecutionException;
 import java.util.concurrent.ExecutorService;
