@@ -1,5 +1,7 @@
 package org.lessons.lesson_24.builder;
 
+import java.util.ArrayList;
+
 public class Main {
 
   public static void main(String[] args) {
@@ -17,5 +19,11 @@ public class Main {
 
 
     PizzaLombok pizzaLombok = new PizzaLombok.PizzaLombokBuilder().topping("dsfdsf").build();
+
+
+//    new ArrayList<>().stream().flatMap()
+
+//    StringBuilder builder = new StringBuilder();
+//    builder.append();
   }
 }
