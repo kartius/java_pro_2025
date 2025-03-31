@@ -1,4 +1,4 @@
-package org.lessons.lesson_24.builder;
+package org.lessons.lesson_24_patterns.builder;
 
 import lombok.Builder;
 import lombok.ToString;

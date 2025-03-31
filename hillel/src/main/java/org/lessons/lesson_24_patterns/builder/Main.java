@@ -1,6 +1,4 @@
-package org.lessons.lesson_24.builder;
-
-import java.util.ArrayList;
+package org.lessons.lesson_24_patterns.builder;
 
 public class Main {
 

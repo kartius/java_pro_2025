@@ -1,4 +1,4 @@
-package org.lessons.lesson_24.factoryMethod;
+package org.lessons.lesson_24_patterns.factoryMethod;
 
 public class FileStorage implements DataStorage {
   @Override

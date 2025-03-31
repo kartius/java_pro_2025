@@ -1,4 +1,4 @@
-package org.lessons.lesson_24;
+package org.lessons.lesson_24_patterns;
 
 public class Singleton {
   //1  private static Singleton instance;

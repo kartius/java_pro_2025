@@ -1,4 +1,4 @@
-package org.lessons.lesson_24.prototype;
+package org.lessons.lesson_24_patterns.prototype;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
