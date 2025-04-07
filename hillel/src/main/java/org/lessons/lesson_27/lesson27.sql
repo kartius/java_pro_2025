@@ -12,7 +12,7 @@ ALTER TABLE students
 
 
 CREATE TABLE hillel_groups (
-                               id INT NOT NULL PRIMARY KEY AUTO_INCREMENT,
+id INT NOT NULL PRIMARY KEY AUTO_INCREMENT,
                                name VARCHAR(256) NOT NULL
 );
 
