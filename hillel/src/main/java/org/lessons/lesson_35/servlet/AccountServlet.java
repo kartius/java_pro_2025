@@ -1,13 +1,13 @@
 package org.lessons.lesson_35.servlet;
 
-import com.google.gson.Gson;
 import jakarta.servlet.ServletException;
 import jakarta.servlet.annotation.WebServlet;
 import jakarta.servlet.http.HttpServlet;
 import jakarta.servlet.http.HttpServletRequest;
 import jakarta.servlet.http.HttpServletResponse;
-import org.example.model.Account;
-import org.example.service.AccountService;
+import org.lessons.lesson_35.model.Account;
+import org.lessons.lesson_35.service.AccountService;
+import com.google.gson.Gson;
 
 import java.io.IOException;
 import java.io.PrintWriter;

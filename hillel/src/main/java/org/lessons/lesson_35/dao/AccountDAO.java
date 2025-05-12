@@ -1,6 +1,7 @@
 package org.lessons.lesson_35.dao;
 
-import org.example.model.Account;
+
+import org.lessons.lesson_35.model.Account;
 
 import java.util.HashMap;
 import java.util.Map;

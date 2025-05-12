@@ -6,8 +6,8 @@ import jakarta.servlet.annotation.WebServlet;
 import jakarta.servlet.http.HttpServlet;
 import jakarta.servlet.http.HttpServletRequest;
 import jakarta.servlet.http.HttpServletResponse;
-import org.example.model.Account;
-import org.example.service.AccountService;
+import org.lessons.lesson_35.model.Account;
+import org.lessons.lesson_35.service.AccountService;
 
 import java.io.IOException;
 @WebServlet("/servlet-jsp")

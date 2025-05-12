@@ -1,7 +1,7 @@
 package org.lessons.lesson_35.service;
 
-import org.example.dao.AccountDAO;
-import org.example.model.Account;
+import org.lessons.lesson_35.dao.AccountDAO;
+import org.lessons.lesson_35.model.Account;
 
 import java.util.Map;
 
